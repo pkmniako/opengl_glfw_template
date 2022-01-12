@@ -1,0 +1,8 @@
+# Object Files
+*.o
+
+# Executables
+*.exe
+
+#VSCode Settings
+.vscode
